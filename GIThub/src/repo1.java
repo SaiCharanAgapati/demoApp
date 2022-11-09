@@ -12,6 +12,8 @@ public class repo1 {
 			}
 			System.out.println();
 			System.out.println("new");
+			System.out.println();
+			System.out.println("new");
 			
 		}
 	}
